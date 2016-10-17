@@ -1,0 +1,14 @@
+C:\Users\Ragtox\Desktop\C#LanderloosRobin\VectorTD\VectorTD\bin\Debug\VectorTD.exe.config
+C:\Users\Ragtox\Desktop\C#LanderloosRobin\VectorTD\VectorTD\bin\Debug\VectorTD.exe
+C:\Users\Ragtox\Desktop\C#LanderloosRobin\VectorTD\VectorTD\bin\Debug\VectorTD.pdb
+C:\Users\Ragtox\Desktop\C#LanderloosRobin\VectorTD\VectorTD\obj\Debug\VectorTD.csprojResolveAssemblyReference.cache
+C:\Users\Ragtox\Desktop\C#LanderloosRobin\VectorTD\VectorTD\obj\Debug\MainWindow.g.cs
+C:\Users\Ragtox\Desktop\C#LanderloosRobin\VectorTD\VectorTD\obj\Debug\App.g.cs
+C:\Users\Ragtox\Desktop\C#LanderloosRobin\VectorTD\VectorTD\obj\Debug\VectorTD_MarkupCompile.cache
+C:\Users\Ragtox\Desktop\C#LanderloosRobin\VectorTD\VectorTD\obj\Debug\VectorTD_MarkupCompile.lref
+C:\Users\Ragtox\Desktop\C#LanderloosRobin\VectorTD\VectorTD\obj\Debug\MainWindow.baml
+C:\Users\Ragtox\Desktop\C#LanderloosRobin\VectorTD\VectorTD\obj\Debug\VectorTD.g.resources
+C:\Users\Ragtox\Desktop\C#LanderloosRobin\VectorTD\VectorTD\obj\Debug\VectorTD.Properties.Resources.resources
+C:\Users\Ragtox\Desktop\C#LanderloosRobin\VectorTD\VectorTD\obj\Debug\VectorTD.csproj.GenerateResource.Cache
+C:\Users\Ragtox\Desktop\C#LanderloosRobin\VectorTD\VectorTD\obj\Debug\VectorTD.exe
+C:\Users\Ragtox\Desktop\C#LanderloosRobin\VectorTD\VectorTD\obj\Debug\VectorTD.pdb
